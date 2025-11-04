@@ -2,7 +2,7 @@
   <a href="#magyar" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #c00; color: white; border-radius: 5px; font-weight: bold;">🇭🇺</a>
   <a href="#english" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #0072c6; color: white; border-radius: 5px; font-weight: bold;">🇬🇧</a>
 </div>
-<br><br>
+<br>
 
 <a name="magyar"></a>
 
