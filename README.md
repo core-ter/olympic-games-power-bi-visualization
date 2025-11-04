@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="#magyar" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #c00; color: white; border-radius: 5px; font-weight: bold;">🇭🇺 Magyar Leírás</a>
-  <a href="#english" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #0072c6; color: white; border-radius: 5px; font-weight: bold;">🇬🇧 English Description</a>
+  <a href="#magyar" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #c00; color: white; border-radius: 5px; font-weight: bold;">🇭🇺</a>
+  <a href="#english" style="text-decoration:none; padding: 10px 20px; margin: 5px; background-color: #0072c6; color: white; border-radius: 5px; font-weight: bold;">🇬🇧</a>
 </div>
 <br><br>
 
 <a name="magyar"></a>
-
-## 🇭🇺 Magyar Leírás
 
 # Párizs 2024 Olimpiai Elemző Dashboard - Power BI Portfólió Projekt
 
@@ -92,11 +90,7 @@ Ez a megközelítés biztosítja, hogy a rangsorolás (amelyet valószínűleg e
 
 <a name="english"></a>
 
-## 🇬🇧 English Description
-
 # Paris 2024 Olympic Analysis Dashboard - Power BI Portfolio Project
-
-**Author:** Magos Vilmos
 
 This project is an interactive Microsoft Power BI report that analyzes the detailed results and statistics of the Paris 2024 Olympics. The dashboard aims to provide a multi-level, data-driven insight from global trends down to individual athlete and national performances.
 
