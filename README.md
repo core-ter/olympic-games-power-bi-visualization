@@ -6,7 +6,7 @@
 
 <a name="magyar"></a>
 
-# Párizs 2024 Olimpiai Elemző Dashboard - Power BI Portfólió Projekt
+# Párizs 2024 Olimpiai Elemző Dashboard - Power BI
 
 Ez a projekt egy interaktív Microsoft Power BI riport, amely a 2024-es Párizsi Olimpia részletes eredményeit és statisztikáit dolgozza fel. A dashboard célja, hogy egy többszintű, adatvezérelt betekintést nyújtson a globális trendektől kezdve egészen az egyedi sportolói és nemzeti teljesítményekig.
 
@@ -90,7 +90,7 @@ Ez a megközelítés biztosítja, hogy a rangsorolás (amelyet valószínűleg e
 
 <a name="english"></a>
 
-# Paris 2024 Olympic Analysis Dashboard - Power BI Portfolio Project
+# Paris 2024 Olympic Analysis Dashboard - Power BI
 
 This project is an interactive Microsoft Power BI report that analyzes the detailed results and statistics of the Paris 2024 Olympics. The dashboard aims to provide a multi-level, data-driven insight from global trends down to individual athlete and national performances.
 
