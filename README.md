@@ -12,7 +12,7 @@ Ez a projekt egy interaktív Microsoft Power BI riport, amely a 2024-es Párizsi
 
 A riport több, egymással összekapcsolt oldalból áll, amelyek lehetővé teszik a felhasználó számára, hogy a globális áttekintéstől eljusson egészen egy adott sportág vagy nemzet mélyelemzéséig.
 
-## 📊 A Riport Oldalai
+## A Riport Oldalai
 
 A projekt négy fő nézetből épül fel, amelyek között gombokkal lehet navigálni.
 
@@ -72,7 +72,7 @@ Ez a nézet az érmek globális, földrajzi eloszlását mutatja be egy interakt
 
 ---
 
-## 🛠️ Kiemelt Technikai Megoldások
+## Kiemelt Technikai Megoldások
 
 A riport hatékonyságát és dinamizmusát komplex DAX mértékek és egy jól felépített adatmodell biztosítja.
 
@@ -96,7 +96,7 @@ This project is an interactive Microsoft Power BI report that analyzes the detai
 
 The report consists of multiple interconnected pages, allowing the user to drill down from a global overview to a deep-dive analysis of a specific sport or nation.
 
-## 📊 The Report's Pages
+## The Report's Pages
 
 The project is built around four main views, with button-based navigation between them.
 
@@ -156,7 +156,7 @@ This view presents the global, geographical distribution of medals on an interac
 
 ---
 
-## 🛠️ Featured Technical Solutions
+## Featured Technical Solutions
 
 The report's effectiveness and dynamism are powered by complex DAX measures and a well-structured data model.
 
